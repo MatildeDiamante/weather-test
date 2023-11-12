@@ -17,12 +17,12 @@ export default function Weather(props) {
     <Oval
       height={80}
       width={80}
-      color="#4fa94d"
+      color="#fff"
       wrapperStyle={{}}
       wrapperClass=""
       visible={true}
       ariaLabel="oval-loading"
-      secondaryColor="#4fa94d"
+      secondaryColor="#fff"
       strokeWidth={2}
       strokeWidthSecondary={2}
     />
